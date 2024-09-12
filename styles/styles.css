@@ -1,0 +1,27 @@
+/* Comon shared styles */
+
+body {
+    font-family: "Work Sans", sans-serif;
+}
+
+/* Header section styles */
+
+header {
+    /* background: url(../images/banner/banner1.png); */
+
+    
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: right;
+    height: 800px;
+  
+}
+
+.banner {
+    j
+    /* text-align: right; */
+}
+.header-image {
+    width: 100%;
+    background-size: cover;
+}
